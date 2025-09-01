@@ -2,7 +2,7 @@
 
 CampusHire is a lightweight placement management system built on **ServiceNow**.  
 It allows **Students, Placement Officers, and Recruiters** to manage the campus hiring process end-to-end.
-
+![CampusHire-Pratham](https://github.com/PrathamAgrawal51/CampusHire_Placement_Managment_Using_ServiceNow/blob/b798e1e4167ac19b3c4a7d53101dac632f62d67e/Screenshots/Pratham-CampusHire.png)
 ---
 
 ## 🎯 Features
@@ -41,22 +41,22 @@ It allows **Students, Placement Officers, and Recruiters** to manage the campus 
 ## 📸 Screenshots
 
 ### 1. CampusHire Home Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/PrathamAgrawal51/CampusHire_Placement_Managment_Using_ServiceNow/blob/b798e1e4167ac19b3c4a7d53101dac632f62d67e/Screenshots/1_Home_Dashboard.png)
 
 ### 2. Student Job Application Page
-![Apply Job](screenshots/apply_job.png)
+![Apply Job](https://github.com/PrathamAgrawal51/CampusHire_Placement_Managment_Using_ServiceNow/blob/b798e1e4167ac19b3c4a7d53101dac632f62d67e/Screenshots/2_Student_Job_Application.png)
 
 ### 3. Officer/Recruiter View
-![Officer View](screenshots/officer_view.png)
+![Officer View](https://github.com/PrathamAgrawal51/CampusHire_Placement_Managment_Using_ServiceNow/blob/b798e1e4167ac19b3c4a7d53101dac632f62d67e/Screenshots/3_Officer_Nav_Menu.png)
 
 ### 4. Job creation form
-![Job creation](screenshots/officer_view.png)
+![Job creation](https://github.com/PrathamAgrawal51/CampusHire_Placement_Managment_Using_ServiceNow/blob/b798e1e4167ac19b3c4a7d53101dac632f62d67e/Screenshots/4_Job_Form.png)
 
 ### 5. Application list with eligibility status
-![Application list](screenshots/officer_view.png)
+![Application list](https://github.com/PrathamAgrawal51/CampusHire_Placement_Managment_Using_ServiceNow/blob/b798e1e4167ac19b3c4a7d53101dac632f62d67e/Screenshots/5_Application_List.png)
 
 ### 6. Placement Result Table
-![Placement Result](screenshots/placement_result.png)
+![Placement Result](https://github.com/PrathamAgrawal51/CampusHire_Placement_Managment_Using_ServiceNow/blob/b798e1e4167ac19b3c4a7d53101dac632f62d67e/Screenshots/6_Placement_Result.png)
 
 ---
 
