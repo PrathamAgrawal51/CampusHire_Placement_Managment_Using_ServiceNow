@@ -40,12 +40,23 @@ It allows **Students, Placement Officers, and Recruiters** to manage the campus 
 
 ## 📸 Screenshots
 
-- `01_home_dashboard.png` – CampusHire Overview Dashboard  
-- `02_student_view.png` – Student job application page  
-- `03_recruiter_view.png` – Recruiter job posting page  
-- `04_job_posting.png` – Job creation form  
-- `05_application_flow.png` – Application list with eligibility status  
-- `06_placement_result.png` – Placement result table  
+### 1. CampusHire Home Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Student Job Application Page
+![Apply Job](screenshots/apply_job.png)
+
+### 3. Officer/Recruiter View
+![Officer View](screenshots/officer_view.png)
+
+### 4. Job creation form
+![Job creation](screenshots/officer_view.png)
+
+### 5. Application list with eligibility status
+![Application list](screenshots/officer_view.png)
+
+### 6. Placement Result Table
+![Placement Result](screenshots/placement_result.png)
 
 ---
 
