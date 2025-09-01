@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="81c19b979327261001da36befaba102b" label="Job" max_length="40" name="x_466636_campushir_job" type="collection">
+        <element label="Min CGPA" mandatory="true" max_length="15" name="min_cgpa" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="cse" label="Eligible Branch" mandatory="true" max_length="40" name="eligible_branch" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CSE" value="cse"/>
+                <element inactive_on_update="false" label="Other" value="other"/>
+                <element inactive_on_update="false" label="IT" value="it"/>
+                <element inactive_on_update="false" label="CE" value="ce"/>
+                <element inactive_on_update="false" label="ME" value="me"/>
+                <element inactive_on_update="false" label="ECE" value="ece"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="encode_utf8=false" label="Posted By" mandatory="true" max_length="32" name="posted_by" reference="x_466636_campushir_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Description" max_length="200" name="job_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Job Title" mandatory="true" max_length="100" name="job_title" type="string"/>
+        <index name="index">
+            <element name="posted_by"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="de939f1b9327261001da36befaba10c9" label="Application" max_length="40" name="x_466636_campushir_application" type="collection">
+        <element attributes="encode_utf8=false" label="Company" mandatory="true" max_length="50" name="company" reference="x_466636_campushir_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Applied" mandatory="true" max_length="40" name="date_applied" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" display="true" label="Student" mandatory="true" max_length="32" name="student" reference="x_466636_campushir_student" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="encode_utf8=false" label="Job" mandatory="true" max_length="32" name="job" reference="x_466636_campushir_job" type="reference"/>
+        <element choice="3" default="Applied" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Under Review" value="Under Review"/>
+                <element inactive_on_update="false" label="Selected" value="Selected"/>
+                <element inactive_on_update="false" label="Rejected" value="Rejected"/>
+                <element inactive_on_update="false" label="Applied" value="Applied"/>
+            </choice>
+        </element>
+        <element choice="3" default="Ineligible" label="Eligibility Status" max_length="40" name="eligibility_status" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Eligible" value="Eligible"/>
+                <element inactive_on_update="false" label="Ineligible" value="Ineligible"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="company"/>
+        </index>
+        <index name="index2">
+            <element name="job"/>
+        </index>
+        <index name="index3">
+            <element name="student"/>
+        </index>
+    </element>
+</database>

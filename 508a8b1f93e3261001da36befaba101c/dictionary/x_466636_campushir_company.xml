@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6adf03179327261001da36befaba10e9" label="Company" max_length="40" name="x_466636_campushir_company" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Person" max_length="50" name="contact_person" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Company Name" mandatory="true" max_length="50" name="company_name" type="string"/>
+        <element label="Owner" max_length="32" name="owner" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Website" max_length="100" name="website" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Email" mandatory="true" max_length="100" name="contact_email" type="string"/>
+        <index name="index">
+            <element name="owner"/>
+        </index>
+    </element>
+</database>
