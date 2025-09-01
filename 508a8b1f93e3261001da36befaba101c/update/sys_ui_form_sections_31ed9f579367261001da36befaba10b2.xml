@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="31ed9f579367261001da36befaba10b2" sys_domain="global" table="x_466636_campushir_job" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:59:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9ed9f579367261001da36befaba10b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_466636_campushir_job" name="x_466636_campushir_job" sys_domain="global" view="Default view">31ed9f579367261001da36befaba10b2</sys_ui_form>
+            <sys_ui_section caption="Job Details" display_value="Job Details" name="x_466636_campushir_job" sys_domain="global" view="Default view">3e8ddfd39367261001da36befaba1045</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:59:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:59:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5ed9f579367261001da36befaba10b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_466636_campushir_job" name="x_466636_campushir_job" sys_domain="global" view="Default view">31ed9f579367261001da36befaba10b2</sys_ui_form>
+            <sys_ui_section caption="Eligibility Criteria" display_value="Eligibility Criteria" name="x_466636_campushir_job" sys_domain="global" view="Default view">b9ed9f579367261001da36befaba10af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:59:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:59:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1ed9f579367261001da36befaba10de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_466636_campushir_job" name="x_466636_campushir_job" sys_domain="global" view="Default view">31ed9f579367261001da36befaba10b2</sys_ui_form>
+            <sys_ui_section caption="Recruiter Info" display_value="Recruiter Info" name="x_466636_campushir_job" sys_domain="global" view="Default view">f9ed9f579367261001da36befaba10b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:59:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 15:04:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>770fd7d79367261001da36befaba10a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_466636_campushir_job" name="x_466636_campushir_job" sys_domain="global" view="Default view">31ed9f579367261001da36befaba10b2</sys_ui_form>
+            <sys_ui_section caption="Record" display_value="Record" name="x_466636_campushir_job" sys_domain="global" view="Default view">330fd7d79367261001da36befaba109e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 15:04:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_466636_campushir_job</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:59:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31ed9f579367261001da36befaba10b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_466636_campushir_job</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_31ed9f579367261001da36befaba10b2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:59:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

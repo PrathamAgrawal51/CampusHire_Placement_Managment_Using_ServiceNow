@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="419b97539367261001da36befaba1004" sys_domain="global" table="x_466636_campushir_student" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_id>c59b9f939367261001da36befaba105e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resume_link</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_id>4d9b9f939367261001da36befaba105e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_id>c19b9f939367261001da36befaba105f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>skills</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_id>499b9f939367261001da36befaba105f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_id>cd9b9f939367261001da36befaba105f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cgpa</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_id>459b9f939367261001da36befaba1060</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_id>c99b9f939367261001da36befaba1060</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_id>419b9f939367261001da36befaba1061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_id>c59b9f939367261001da36befaba1061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>full_name</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_id>4d9b9f939367261001da36befaba1061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_466636_campushir_student</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>419b97539367261001da36befaba1004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_466636_campushir_student</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+            <sys_update_name>sys_ui_section_419b97539367261001da36befaba1004</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</application>
+        <file_path/>
+        <instance_id>c0625f973bdc2ad0677f04e0b5e45a66</instance_id>
+        <instance_name>dev304959</instance_name>
+        <name>sys_ui_section_419b97539367261001da36befaba1004</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="419b97539367261001da36befaba1004" sys_domain="global" table="x_466636_campushir_student" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_id>c59b9f939367261001da36befaba105e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>resume_link</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_id>4d9b9f939367261001da36befaba105e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>email</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_id>c19b9f939367261001da36befaba105f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>skills</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_id>499b9f939367261001da36befaba105f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_id>cd9b9f939367261001da36befaba105f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cgpa</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_id>459b9f939367261001da36befaba1060</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_id>c99b9f939367261001da36befaba1060</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>branch</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_id>419b9f939367261001da36befaba1061</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_id>c59b9f939367261001da36befaba1061</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>full_name</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_id>4d9b9f939367261001da36befaba1061</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_466636_campushir_student" sys_domain="global" view="Default view">419b97539367261001da36befaba1004</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_466636_campushir_student</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 14:49:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>419b97539367261001da36befaba1004</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_466636_campushir_student</sys_name><sys_overrides/><sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package><sys_policy/><sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope><sys_update_name>sys_ui_section_419b97539367261001da36befaba1004</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 14:49:21</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-20648427</payload_hash>
+        <record_name>Student</record_name>
+        <reverted_from/>
+        <source>5c8a8b1f93e3261001da36befaba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-29 14:49:21</sys_created_on>
+        <sys_id>419b9f939367261001da36befaba1064</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198f64df8400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-29 14:49:21</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>099b9f93c9672610520ed4658b012d63</update_guid>
+        <update_guid_history>099b9f93c9672610520ed4658b012d63:-20648427,0d9b9753cf672610d3f25d7561b66d06:-1488269451</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-29 14:54:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>97ddc1b205904acaac3b7a9819c087e4</sys_id>
+        <sys_metadata>419b97539367261001da36befaba1004</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_466636_campushir_student</sys_name>
+        <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+        <sys_parent display_value="Student">efde0f939327261001da36befaba10f1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+        <sys_scope_delete display_value="">2931987aa46c4d1e860932fdefaad781</sys_scope_delete>
+        <sys_update_name>sys_ui_section_419b97539367261001da36befaba1004</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_419b97539367261001da36befaba1004">419b9f939367261001da36befaba1064</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-29 14:54:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

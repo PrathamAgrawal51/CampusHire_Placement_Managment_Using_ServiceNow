@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="CampusHire Portal">c075d3139327261001da36befaba109d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Access Controls</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sys_security_acl</name>
+        <order>16</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>sys_security_acl_list.do</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>admin,security_admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 07:37:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4102876f93a7661001da36befaba1041</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Access Controls</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+        <sys_update_name>sys_app_module_4102876f93a7661001da36befaba1041</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 07:55:54</sys_updated_on>
+        <timeline_page/>
+        <title>Access Controls</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</application>
+        <file_path/>
+        <instance_id>c0625f973bdc2ad0677f04e0b5e45a66</instance_id>
+        <instance_name>dev304959</instance_name>
+        <name>sys_app_module_4102876f93a7661001da36befaba1041</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CampusHire Portal">c075d3139327261001da36befaba109d</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Access Controls</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sys_security_acl</name><order>16</order><override_menu_roles>false</override_menu_roles><query>sys_security_acl_list.do</query><report/><require_confirmation>true</require_confirmation><roles>admin,security_admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 07:37:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4102876f93a7661001da36befaba1041</sys_id><sys_mod_count>8</sys_mod_count><sys_name>Access Controls</sys_name><sys_overrides/><sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package><sys_policy/><sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope><sys_update_name>sys_app_module_4102876f93a7661001da36befaba1041</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 07:55:54</sys_updated_on><timeline_page/><title>Access Controls</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1204673213</payload_hash>
+        <record_name>Access Controls</record_name>
+        <reverted_from/>
+        <source>5c8a8b1f93e3261001da36befaba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 07:55:55</sys_created_on>
+        <sys_id>a68687e393e7661001da36befaba1031</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198f9f9cf630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 07:55:55</sys_updated_on>
+        <type>Module</type>
+        <update_guid>6e8687e38ae76610737d706879d26630</update_guid>
+        <update_guid_history>6e8687e38ae76610737d706879d26630:1204673213,31a48f23e7e766102c87d16a1b7ae51e:-11507662,5a848b23ebe76610626fa48506614209:-1563302027,c56487ef34a7661097a4a0251a656160:1587685188,898343ef28a7661089abac8bb202fedd:121466737,d243cfafeba766104f4fb165c91c99cd:1916108036,0d338faf41a76610b05adac769a290c6:694029528,50a2836f75a76610729976eaec925ca2:1240064644,95520f6fc3a76610d3805b1de8de1bcc:1499899886</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Access Controls">50d2d3a3932b661001da36befaba10a4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 08:49:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>06b0c544d52b4524af9231a1f5fd5210</sys_id>
+        <sys_metadata>4102876f93a7661001da36befaba1041</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Access Controls</sys_name>
+        <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+        <sys_scope_delete display_value="">2931987aa46c4d1e860932fdefaad781</sys_scope_delete>
+        <sys_update_name>sys_app_module_4102876f93a7661001da36befaba1041</sys_update_name>
+        <sys_update_version display_value="sys_app_module_4102876f93a7661001da36befaba1041">a68687e393e7661001da36befaba1031</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 08:49:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

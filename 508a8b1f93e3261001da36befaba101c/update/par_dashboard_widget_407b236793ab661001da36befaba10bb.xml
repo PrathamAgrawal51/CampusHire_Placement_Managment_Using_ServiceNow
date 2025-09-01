@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">abe4e72f936b661001da36befaba10cf</canvas>
+        <component display_value="Vertical bar">23051643b7e03010097cb81cde11a910</component>
+        <component_props>{"drilldownLabel":null,"selectedElements":[],"configVersion":"23.0.0-ci-SNAPSHOT","chartSize":null,"chartVariation":"stacked","yAxisTitle":"Selected Students","yAxisFrom":null,"yAxisTo":null,"yAxisPosition":"bottom","yAxisShowGrid":true,"xAxisTitle":null,"xAxisWrapLabels":false,"xAxisMaxLabelSize":100,"showClosestSeriesOnHover":true,"xAxisTruncationType":"end","yAxisStyle":"clean","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendMaxItemWidth":null,"legendExpandToFit":false,"showDataLabels":false,"dataLabelPosition":"middle","showStackedValues":"none","showOverlappingLabels":false,"colorConfig":{"type":"default"},"yAxisHidden":false,"xAxisHidden":false,"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Placement Result","sourceType":"table","tableOrViewName":"x_466636_campushir_placement_result","filterQuery":"","reportSourceSysId":null,"preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzQ2NjYzNl9jYW1wdXNoaXJfcGxhY2VtZW50X3Jlc3VsdDE3NTY1NDk5NTI3NTU=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"title":null,"headerTitle":"Selected Per Company","headingLevel":2,"description":null,"showBorder":true,"groupByConfig":null,"bareBorder":false,"formats":null,"dataCategory":null,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"metrics":[{"dataSource":"dGFibGV4XzQ2NjYzNl9jYW1wdXNoaXJfcGxhY2VtZW50X3Jlc3VsdDE3NTY1NDk5NTI3NTU=","id":"ZEdGaWJHVjRYelEyTmpZek5sOWpZVzF3ZFhOb2FYSmZjR3hoWTJWdFpXNTBYM0psYzNWc2RERTNOVFkxTkRrNU5USTNOVFU9MTc1NjU0OTk1NDM0OQ==","aggregateFunction":"COUNT","numberFormat":{"customFormat":true,"rounding":"HALF_UP","decimalPrecision":2,"abbreviationEnabled":false,"numberInTooltipsEnabled":false,"thousandSeparatorEnabled":true},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzQ2NjYzNl9jYW1wdXNoaXJfcGxhY2VtZW50X3Jlc3VsdDE3NTY1NDk5NTI3NTU=","groupByField":"company","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"forecastConfig":null,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"atvfvf8v","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"backgroundRefreshInterval":null,"standardFormatData":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"chartExtraConfig":null,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","startTime":null,"endTime":null,"useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"isComponentInView":null,"pageId":null,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"id":"yAxisTitle","value":"Selected Students","noDebounce":true,"propLabel":"Axis title"}</component_props>
+        <h>28</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 10:37:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>407b236793ab661001da36befaba10bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+        <sys_update_name>par_dashboard_widget_407b236793ab661001da36befaba10bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 10:37:08</sys_updated_on>
+        <visualization/>
+        <w>23</w>
+        <widget_props/>
+        <x>25</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

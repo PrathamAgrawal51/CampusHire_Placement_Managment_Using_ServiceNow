@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Role for student users, can apply to jobs and view own records.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_466636_campushir.student</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>student</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 07:28:00</sys_created_on>
+        <sys_id>97dff66b93a7661001da36befaba1093</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_466636_campushir.student</sys_name>
+        <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+        <sys_update_name>sys_user_role_97dff66b93a7661001da36befaba1093</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 07:28:00</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</application>
+        <file_path/>
+        <instance_id>c0625f973bdc2ad0677f04e0b5e45a66</instance_id>
+        <instance_name>dev304959</instance_name>
+        <name>sys_user_role_97dff66b93a7661001da36befaba1093</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Role for student users, can apply to jobs and view own records.</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_466636_campushir.student</name><scoped_admin>false</scoped_admin><suffix>student</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 07:28:00</sys_created_on><sys_id>97dff66b93a7661001da36befaba1093</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_466636_campushir.student</sys_name><sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package><sys_policy/><sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope><sys_update_name>sys_user_role_97dff66b93a7661001da36befaba1093</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 07:28:00</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1156464554</payload_hash>
+        <record_name>x_466636_campushir.student</record_name>
+        <reverted_from/>
+        <source>5c8a8b1f93e3261001da36befaba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 07:28:00</sys_created_on>
+        <sys_id>e120c7ab93a7661001da36befaba103e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198f9e041fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 07:28:00</sys_updated_on>
+        <type>Role</type>
+        <update_guid>e520c7abb4a76610de7e6bf2fdfb653d</update_guid>
+        <update_guid_history>e520c7abb4a76610de7e6bf2fdfb653d:1156464554</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_466636_campushir.student">37c0476b93a7661001da36befaba1020</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 07:30:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>c350540b793540d0accf96c3d0d61b49</sys_id>
+        <sys_metadata>97dff66b93a7661001da36befaba1093</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_466636_campushir.student</sys_name>
+        <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+        <sys_scope_delete display_value="">2931987aa46c4d1e860932fdefaad781</sys_scope_delete>
+        <sys_update_name>sys_user_role_97dff66b93a7661001da36befaba1093</sys_update_name>
+        <sys_update_version display_value="sys_user_role_97dff66b93a7661001da36befaba1093">e120c7ab93a7661001da36befaba103e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 07:30:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

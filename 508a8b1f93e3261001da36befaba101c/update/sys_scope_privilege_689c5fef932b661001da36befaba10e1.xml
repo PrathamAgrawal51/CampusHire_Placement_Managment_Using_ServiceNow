@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>student_user1</sys_created_by>
+        <sys_created_on>2025-08-30 09:32:10</sys_created_on>
+        <sys_id>689c5fef932b661001da36befaba10e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.insert</sys_name>
+        <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+        <sys_update_name>sys_scope_privilege_689c5fef932b661001da36befaba10e1</sys_update_name>
+        <sys_updated_by>student_user1</sys_updated_by>
+        <sys_updated_on>2025-08-30 09:32:10</sys_updated_on>
+        <target_name>GlideRecord.insert</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

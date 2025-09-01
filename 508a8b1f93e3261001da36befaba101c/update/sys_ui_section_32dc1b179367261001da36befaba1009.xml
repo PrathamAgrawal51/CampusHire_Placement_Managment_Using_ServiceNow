@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Academic Info" section_id="32dc1b179367261001da36befaba1009" sys_domain="global" table="x_466636_campushir_student" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:54:57</sys_created_on>
+            <sys_id>03dc1b179367261001da36befaba103b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Academic Info" display_value="Academic Info" name="x_466636_campushir_student" sys_domain="global" view="Default view">32dc1b179367261001da36befaba1009</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:54:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:54:57</sys_created_on>
+            <sys_id>87dc1b179367261001da36befaba103b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Academic Info" display_value="Academic Info" name="x_466636_campushir_student" sys_domain="global" view="Default view">32dc1b179367261001da36befaba1009</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:54:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cgpa</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:54:57</sys_created_on>
+            <sys_id>0fdc1b179367261001da36befaba103b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Academic Info" display_value="Academic Info" name="x_466636_campushir_student" sys_domain="global" view="Default view">32dc1b179367261001da36befaba1009</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:54:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Academic Info</caption>
+            <header>false</header>
+            <name>x_466636_campushir_student</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 14:54:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32dc1b179367261001da36befaba1009</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_466636_campushir_student</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+            <sys_update_name>sys_ui_section_32dc1b179367261001da36befaba1009</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 14:54:56</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

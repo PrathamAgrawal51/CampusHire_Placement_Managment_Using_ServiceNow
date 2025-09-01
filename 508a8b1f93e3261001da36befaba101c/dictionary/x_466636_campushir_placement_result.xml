@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8cd4979b9327261001da36befaba10ab" label="Placement Result" max_length="40" name="x_466636_campushir_placement_result" type="collection">
+        <element label="CTC" max_length="20" name="ctc" type="decimal"/>
+        <element attributes="encode_utf8=false" label="Company" mandatory="true" max_length="32" name="company" reference="x_466636_campushir_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="selected" label="Final Status" mandatory="true" max_length="40" name="final_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Selected" value="selected"/>
+                <element inactive_on_update="false" label="Not Selected" value="not_selected"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" display="true" label="Student" mandatory="true" max_length="32" name="student" reference="x_466636_campushir_student" type="reference"/>
+        <element attributes="encode_utf8=false" label="Job" mandatory="true" max_length="32" name="job" reference="x_466636_campushir_job" type="reference"/>
+        <index name="index">
+            <element name="company"/>
+        </index>
+        <index name="index2">
+            <element name="job"/>
+        </index>
+        <index name="index3">
+            <element name="student"/>
+        </index>
+    </element>
+</database>

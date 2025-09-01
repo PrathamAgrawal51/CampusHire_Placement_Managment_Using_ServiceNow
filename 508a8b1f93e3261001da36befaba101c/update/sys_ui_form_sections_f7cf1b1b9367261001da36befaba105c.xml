@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f7cf1b1b9367261001da36befaba105c" sys_domain="global" table="x_466636_campushir_placement_result" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 15:07:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3cf1b1b9367261001da36befaba105f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_466636_campushir_placement_result" name="x_466636_campushir_placement_result" sys_domain="global" view="Default view">f7cf1b1b9367261001da36befaba105c</sys_ui_form>
+            <sys_ui_section caption="Result Info" display_value="Result Info" name="x_466636_campushir_placement_result" sys_domain="global" view="Default view">f68f531b9367261001da36befaba109b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 15:07:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 15:07:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7fcf1b1b9367261001da36befaba105f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_466636_campushir_placement_result" name="x_466636_campushir_placement_result" sys_domain="global" view="Default view">f7cf1b1b9367261001da36befaba105c</sys_ui_form>
+            <sys_ui_section caption="Final Outcome" display_value="Final Outcome" name="x_466636_campushir_placement_result" sys_domain="global" view="Default view">b3cf1b1b9367261001da36befaba105a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 15:07:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 15:07:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37cf1b1b9367261001da36befaba1063</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_466636_campushir_placement_result" name="x_466636_campushir_placement_result" sys_domain="global" view="Default view">f7cf1b1b9367261001da36befaba105c</sys_ui_form>
+            <sys_ui_section caption="Record" display_value="Record" name="x_466636_campushir_placement_result" sys_domain="global" view="Default view">f3cf1b1b9367261001da36befaba105b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 15:07:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_466636_campushir_placement_result</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 15:07:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7cf1b1b9367261001da36befaba105c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_466636_campushir_placement_result</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f7cf1b1b9367261001da36befaba105c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 15:07:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

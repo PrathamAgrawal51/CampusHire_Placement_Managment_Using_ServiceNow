@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_466636_campushir_application</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>BR_Application_Set_Eligibility</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null on insert*/) {
+  // Load student and job records
+  var stu = current.student.getRefRecord ? current.student.getRefRecord() : null;
+  var job = current.job.getRefRecord ? current.job.getRefRecord() : null;
+
+  if (!stu || !job) {
+    // If references not present, mark ineligible and continue
+    current.eligibility_status = 'Ineligible';
+    return;
+  }
+
+  // Get CGPA numbers (be defensive)
+  var stuCgpa = parseFloat(stu.getValue('cgpa') || 0);
+  var minCgpa = parseFloat(job.getValue('min_cgpa') || 0);
+
+  // Branch check: job may have an 'eligible_branch' choice
+  var jobBranch = (job.getValue('eligible_branch') || '').toString().trim();
+  var stuBranch = (stu.getValue('branch') || '').toString().trim();
+
+  var eligible = true;
+  var reasons = [];
+
+  if (stuCgpa < minCgpa) {
+    eligible = false;
+    reasons.push('CGPA below minimum');
+  }
+  if (jobBranch && jobBranch !== '' && jobBranch.toUpperCase() !== stuBranch.toUpperCase()) {
+    eligible = false;
+    reasons.push('Branch not eligible');
+  }
+
+  current.eligibility_status = eligible ? 'Eligible' : 'Ineligible';
+  // date_applied: ensure it's set
+  if (!current.date_applied)
+    current.date_applied = new GlideDateTime();
+
+})(current, previous);
+]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 08:37:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>01cf87ef93e7661001da36befaba107f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BR_Application_Set_Eligibility</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+        <sys_update_name>sys_script_01cf87ef93e7661001da36befaba107f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 08:37:34</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=01cf87ef93e7661001da36befaba107f"/>
+</record_update>

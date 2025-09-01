@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Final Outcome" section_id="b3cf1b1b9367261001da36befaba105a" sys_domain="global" table="x_466636_campushir_placement_result" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>final_status</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 15:07:51</sys_created_on>
+            <sys_id>48df1b1b9367261001da36befaba1089</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Final Outcome" display_value="Final Outcome" name="x_466636_campushir_placement_result" sys_domain="global" view="Default view">b3cf1b1b9367261001da36befaba105a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 15:07:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Final Outcome</caption>
+            <header>false</header>
+            <name>x_466636_campushir_placement_result</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-29 15:07:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3cf1b1b9367261001da36befaba105a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_466636_campushir_placement_result</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CampusHire Portal" source="x_466636_campushir">508a8b1f93e3261001da36befaba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CampusHire Portal">508a8b1f93e3261001da36befaba101c</sys_scope>
+            <sys_update_name>sys_ui_section_b3cf1b1b9367261001da36befaba105a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-29 15:07:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
